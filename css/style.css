@@ -1,0 +1,45 @@
+body {
+    background-image: url(../images/cover2.jpeg);
+    background-size: cover;
+    background-blend-mode:;
+}
+.transbox {
+    margin-left: 10px;
+    margin-top: 20px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+}
+h1 {
+    font-size: 90px;
+    text-align: center;
+}
+p {
+    color: black;
+}
+.names {
+    float: left;
+    border: 2px solid white;
+    width: 60%;
+    background-color: white;
+}
+/*.colB {
+    float:left;
+}*/
+#formformat {
+    border-style: solid;
+    border-color:black;
+    padding-left: 10%;
+    background-image: linear-gradient(grey,white);
+    height: 50%;
+}
+.contacts {
+    position: bottom;
+    bottom: 10px;
+    width: auto;
+    border: 3px solid white;
+    text-align: center;
+    background-color: green;
+    font-size: 120%;
+
+}
