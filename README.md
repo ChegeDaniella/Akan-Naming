@@ -16,7 +16,7 @@ There is nothing external that is needed for the set up.Since all the functions 
 
 In the making of this web based application the languages used were HTML,CSS and javascript.Javascript was in charge of the back-end development.
 
-https://chegedaniella.github.io/Akan-Nameing/
+https://chegedaniella.github.io/Akan-Naming/
 
 # contact information.
 Email:chegedaniella@gmail.com
